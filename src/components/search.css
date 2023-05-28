@@ -1,0 +1,26 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.loc-input{
+    flex: 6;
+    padding: 10px;
+}   
+
+.loc-button {
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #494848;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.loc-button:hover {
+    background-color: #333;
+}
