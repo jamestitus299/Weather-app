@@ -23,7 +23,7 @@ const Forcast = ({ data }) => {
     WEEK_DAYS.slice(0, dayinaweek)
   );
   // console.log(data);
-  console.log(data);
+//   console.log(data);
 
   return (
     <>
